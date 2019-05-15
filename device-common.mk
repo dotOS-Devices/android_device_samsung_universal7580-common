@@ -134,10 +134,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.renderscript@1.0-impl
 
-# SamsungDoze
-PRODUCT_PACKAGES += \
-    SamsungDoze
-
 # Seccomp filters
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/seccomp/mediaextractor-seccomp.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediaextractor.policy \
