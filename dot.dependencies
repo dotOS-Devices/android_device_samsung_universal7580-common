@@ -4,7 +4,7 @@
         "target_path": "hardware/samsung"
     },
     {
-        "repository": "android_kernel_samsung_universal7580",
+        "repository": "kernel_samsung_universal7580",
         "target_path": "kernel/samsung/universal7580"
     },
     {
